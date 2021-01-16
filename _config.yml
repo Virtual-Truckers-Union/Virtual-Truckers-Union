@@ -29,7 +29,7 @@ url: "https://info.virtualtruckers-union.co.uk/ # the base hostname & protocol f
 root: /
 # Build settings
 permalink: /:title:output_ext
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
