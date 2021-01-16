@@ -23,7 +23,7 @@ email: go@cybersaur.io
 description: >- # this means to ignore newlines until "baseurl:"
   The VTU combines the trucking community to create a pleasant place for everyone
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://info.virtualtruckers-union.co.uk/ # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://info.virtualtruckers-union.co.uk/ # the base hostname & protocol for your site, e.g. http://example.com"
 #twitter_username:
 #github_username:
 
