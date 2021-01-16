@@ -3,16 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+## What is the VTU?
+The VTU is the safest place for Truckers and VTCs to communicate and collaborate.
+We work together to develop a fair and friendly environment of virtual trucking companies, so whether you're looking to join a VTC, or wanting to collaborate with other VTCs, we can help.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## We are everyone  
+Everyone's views matter, which is why we are founded on democratic system.
+We are comprised of casual players, enthusiasts and, VTCs from all around the world.

@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Welcome to the VTU"
+title:  "The VTU Blog is here"
 date:   2021-01-12 15:54:50 +0000
 categories: News
 ---
-## What is the VTU?
-The VTU is the safest place for Truckers and VTCs to communicate and collaborate.
-We work together to develop a fair and friendly environment of virtual trucking companies, so whether you're looking to join a VTC, or wanting to collaborate with other VTCs, we can help.
+As the VTU is running low on developers and hasn't been as active recently,
+I decided to implement a system whereby the non-tech staff can easily post news articles and create new pages.  
 
-## We are everyone  
-Everyone's views matter, which is why we are founded on democratic system.
-We are comprised of casual players, enthusiasts and, VTCs from all around the world.
+### Hold on, is the old site going?
+Hold your horses! No it is not... This site will be accessible via the main site where this one will act as a blog system - a way for people to easily update things and create events!
